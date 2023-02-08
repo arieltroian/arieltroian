@@ -12,5 +12,7 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div> <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltroian&layout=compact)](https://github.com/arieltroian/github-readme-stats)
+
 - 😄 Pronomes: ela/dela ou ele/dele
  
