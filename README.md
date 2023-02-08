@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieltroian/)
 
-![Troian GitHub stats](https://github-readme-stats.vercel.app/api?username=arieltroian&show_icons=true&theme=dark)
+![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arieltroian&show_icons=true&theme=ocean_dark )
 
 ### Técnologias 🖥️
 
