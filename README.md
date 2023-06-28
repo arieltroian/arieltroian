@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Ariel <img src="assets\cat.gif" style= "width: 90px; margin: -30px; padding-left: 30px">  </h1>
+<h1>Olá! Eu sou o Ariel <img src="cat.gif" style= "width: 90px; margin: -30px; padding-left: 30px">  </h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieltroian/)
 
