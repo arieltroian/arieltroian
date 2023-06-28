@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieltroian/)
 
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arieltroian&theme=vue-dark)
+![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arieltroian&theme=date_night)
 
 ### Técnologias 🖥️
 
@@ -12,7 +12,7 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltroian&theme=vue-dark)](https://github.com/arieltroian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltroian&theme=date_night)](https://github.com/arieltroian/github-readme-stats)
 
 
 - 😄 Pronomes: ela/dela ou ele/dele
