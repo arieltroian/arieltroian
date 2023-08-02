@@ -1,16 +1,24 @@
-<h1>Olá! Eu sou o Ariel <img height="30em" src=""</h1>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieltroian/)
+<h1>Olá, Eu sou o Ariel! <img height="60em" src="https://github.com/arieltroian/arieltroian/blob/main/seed.gif?raw=true"> </h1>
 
 <img align="right" height="400em" src="https://github.com/arieltroian/arieltroian/blob/main/laptop.gif?raw=true"/>
 
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arieltroian&theme=date_night)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltroian&theme=date_night)](https://github.com/arieltroian/github-readme-stats)
 
-## Estudando atualmente:
-
-<div style="display:inline_block"> <br/>
+### Estudando atualmente:
+<div style="display:inline_block">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltroian&theme=date_night)](https://github.com/arieltroian/github-readme-stats)
+### Contato:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieltroian/)
+
+
+
+
+
+
+
+
+
+
