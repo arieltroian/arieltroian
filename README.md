@@ -1,6 +1,6 @@
 <h1>Olá, Eu sou o Ariel! <img height="60em" src="https://github.com/arieltroian/arieltroian/blob/main/seed.gif?raw=true"> </h1>
 
-<img align="right" height="400em" src="https://github.com/arieltroian/arieltroian/blob/main/laptop.gif?raw=true"/>
+<img align="right" height="430em" src="https://github.com/arieltroian/arieltroian/blob/main/laptop.gif?raw=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltroian&theme=date_night)](https://github.com/arieltroian/github-readme-stats)
 
