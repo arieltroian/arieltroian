@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Ariel</h1>
+<h1>Olá! Eu sou o Ariel <img height="30em" src=""</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieltroian/)
 
