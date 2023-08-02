@@ -1,6 +1,8 @@
-<h1>Olá! Eu sou o Ariel <img src="gato.gif" style= "width: 100px; margin: -30px; padding-left: 30px;">  </h1>
+<h1>Olá! Eu sou o Ariel</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieltroian/)
+
+<img align="right" height="400em" src="https://github.com/arieltroian/arieltroian/blob/main/laptop.gif?raw=true"/>
 
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arieltroian&theme=date_night)
 
