@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/arieltroian/arieltroian/730c85aeb9349fa665f3db7a49d73ae23a537819/titulo.svg"> <img height="90em" src="https://github.com/arieltroian/arieltroian/blob/main/seed.gif?raw=true">
+<img height="50em" src="https://raw.githubusercontent.com/arieltroian/arieltroian/730c85aeb9349fa665f3db7a49d73ae23a537819/titulo.svg"> <img height="90em" src="https://github.com/arieltroian/arieltroian/blob/main/seed.gif?raw=true">
 </p>
 <hr>
 
