@@ -9,7 +9,7 @@
 
 ### 🏳️‍⚧️ Sobre mim:
 * Dev FrontEnd Junior
-* 21 anos
+* 22 anos
 * Pessoa trans
 
 ### 🚀 Estudando atualmente:
