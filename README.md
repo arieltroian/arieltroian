@@ -9,6 +9,7 @@
 
 ### 📌 Sobre mim:
 * Dev FrontEnd Junior
+* Amante de café ☕
 * 22 anos
 
 ### ⚙️ Estudando atualmente:
