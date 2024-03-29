@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arieltroian&theme=date_night)](https://github.com/arieltroian/github-readme-stats)
 
 ### 📌 Sobre mim:
-* Desenvolvedor FrontEnd Júnior
+* Desenvolvedor Full Stack Júnior
 * 22 anos
 
 ### ⚙️ Estudando atualmente:
