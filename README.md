@@ -1,5 +1,7 @@
 # Olá, eu sou o Ariel! ☕
 
+<img align="right" width="450" alt="" src="https://i.ibb.co/Hqh5mpx/my-octocat.png" />
+
 ### 📌 Sobre mim:
 * Desenvolvedor Full Stack Júnior
 * 22 anos
