@@ -1,8 +1,8 @@
-<h1>Oi, eu sou o Ariel! <span> <img width="50" alt="a" src="https://i.ibb.co/hV4w7Jk/nonbinary-pride.gif" /> </span> </h1> 
+# Oi 👋🏻 eu sou o Ariel! 
 
 Desenvolvedor Full Stack Junior 
 
-<img align="right" width="450" alt="a" src="https://i.ibb.co/Hqh5mpx/my-octocat.png" />
+<img align="right" width="440" alt="My Octocat illustration" src="https://i.ibb.co/Hqh5mpx/my-octocat.png" />
 
 ### Principais tecnologias:
 * Java
