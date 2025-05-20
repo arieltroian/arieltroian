@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **arieltroian@outlook.com**
 
-- 📄 Know about my experiences [computer science student at UFFSomputer science student at UFFS](computer science student at UFFSomputer science student at UFFS)
+- 📄 Know about my experiences: **Computer science student at UFFS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
